@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+8import React, { useState } from "react";
 import { View, TouchableOpacity, Text, StyleSheet, Image } from "react-native";
 
 import Constants from "expo-constants";
